@@ -6,6 +6,7 @@ A marine navigation route planner is a system that helps compute the best route 
 Our agent is equipped with a 2D map where cells are all equilateral triangles of the same size as shown in Figure 1. The agent starts from a cell where we assume there are awaiting passengers at a departure port S, and brings the passengers to a destination port G, in the most efficient way to provide the best possible customer service.
 
 ![image](https://github.com/reniacorreya/AI_search_marine_navigation_planner/assets/122054528/3a148112-8a4a-4273-9805-5473af136370)
+
 Figure 1: Example map
 
 
@@ -25,9 +26,11 @@ The ferry agent moves in the navigation map according to the following rules:
 Directions:
 
 ![image](https://github.com/reniacorreya/AI_search_marine_navigation_planner/assets/122054528/daf31c05-9a16-4b70-adf2-a1e69cfe169e)
+
 Figure 2: Upwards pointing triangles
 
 ![image](https://github.com/reniacorreya/AI_search_marine_navigation_planner/assets/122054528/15074cee-f197-4d04-8374-d87e555038d9)
+
 Figure 3: Downwards pointing triangles
 
 Running Instructions:
